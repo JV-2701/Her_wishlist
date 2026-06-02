@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+
  
 const CATEGORIES = [
   { id: "makeup", label: "Makeup", emoji: "💄", color: "#f4a0b5", light: "#fde8f0" },
